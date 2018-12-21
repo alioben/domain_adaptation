@@ -15,4 +15,4 @@ Tensorflow implementation of the CVPR 2017 paper published by Artem Rozantsev et
 ```
 3. Tain on svnh/mnist domain adaptation: `python train.py`
 
-**Note:** This implementation works for MNIST --> SVHN (source --> target). I have not tried yet for MNIST --> USPS.
+**Note:** This implementation works for MNIST --> SVHN (source --> target), I have not tried yet for other datasets.
